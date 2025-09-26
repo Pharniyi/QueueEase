@@ -34,7 +34,7 @@ const Home = () => {
         </header>
       </div>
 
-      <div className="flex items-center justify-center min-h-[80vh] w-full bg-center bg-cover bg-[url('queue.png')] relative">
+      <div className="flex items-center justify-center min-h-[80vh] w-full bg-center bg-cover bg-[url('/queue.png')] relative">
         <div className="container w-full h-full mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl flex flex-col items-center justify-center text-center text-white z-10">
           <h1 className="text-4xl md:text-6xl font-black tracking-tighter mb-4">Streamline Your Customer Flow with QueueEase</h1>
           <p className="text-base md:text-lg mb-8 max-w-2xl">QueueEase is the ultimate solution for managing customer queues efficiently. Reduce wait times, enhance customer satisfaction, and optimize your business operations.</p>
